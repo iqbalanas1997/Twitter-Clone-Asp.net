@@ -1,0 +1,98 @@
+﻿#dvLeft{
+    width:55%;
+    height:700px;
+    float:left;
+
+}
+
+#dvRight {
+    width: 45%;
+    height: 700px;
+    float: left;
+}
+#twitterLogo {
+    position: relative;
+    left: 2px;
+    top: 200px;
+}
+
+#HappeningNow {
+    position: relative;
+    left: 30px;
+    top: 200px;
+    font-size:xx-large;
+    font-family:'Arial Rounded MT';
+    font-weight:bolder;
+}
+
+#dvbtn {
+    position: relative;
+    left: 30px;
+    top: 180px;
+}
+
+#dvRegForm {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 10% 10% 10% 10%;
+    position: relative;
+    top: 50px;
+}
+#dvtwlogo {
+    float: left;
+}
+
+#dvnextbtn {
+    float: right;
+}
+
+#dvLoginForm {
+    position: relative;
+    top: 50px;
+}
+
+#dvLeftUT {
+    width:25%;
+    height:700px;
+    float:left;
+
+}
+
+#dvCenterUT {
+    width: 50%;
+    height: 700px;
+    float: left;
+}
+
+#dvRightUT {
+    width: 25%;
+    height: 700px;
+    float: left;
+}
+
+#searchTweet {
+    border-radius: 20% 20% 20% 20%;
+   
+}
+
+ul.ba {
+    list-style-type: none;
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+#signUpbtn {
+    border-radius: 20% 20% 20% 20% 
+}
+#loginBtn {
+    border-radius: 20% 20% 20% 20%
+}
+
+#deleteAccount {
+    border-radius: 20% 20% 20% 20%
+}
+#btnAddNewRow {
+    border-radius: 30% 30% 30% 30%
+}
